@@ -82,7 +82,7 @@ python-dotenv==1.0.0
 python-engineio==4.4.1
 python-socketio==5.8.0
 pytz==2023.3
-PyWavelets==1.4.1
+PyWavelets==1.9.0
 PyYAML==6.0
 pyzmq==25.1.0
 requests==2.31.0
