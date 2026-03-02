@@ -91,7 +91,7 @@ requests-toolbelt==1.0.0
 roboflow==1.1.0
 rsa==4.9
 scikit-image==0.26.0
-scipy==1.10.1
+scipy==1.15.2
 seaborn==0.12.2
 six==1.16.0
 smmap==5.0.0
